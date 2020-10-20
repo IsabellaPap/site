@@ -17,43 +17,8 @@ tags:
 
 Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
 
-<script>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: #66cd00;
-    font-family: helvetica, arial, serif;
-    color: #fff;
-    font-size: 50px;
-}
-
-@media screen and (max-width: 1220px) {
-    body {
-        background-color: #8a2be2;
-        font-size: 40px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    body {
-        background-color: #ff2500;
-        font-size: 27px;
-    }
-}
-
-@media screen and (max-width: 420px) {
-    body {
-        background-color: #fcc419;
-        color: #000;
-      font-size: 23px;
-    }
-}
-</style>
-</head>
-<body>
-<p>RESIZE BROWSER'S WINDOW</p>
-</body>
-</html>
-</script>
+Απάντηση:
+<iframe height="341" style="width: 100%;" scrolling="no" title="gOMwxXg" src="https://codepen.io/isabellapap/embed/preview/gOMwxXg?height=341&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/isabellapap/pen/gOMwxXg'>gOMwxXg</a> by 2019235
+  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
