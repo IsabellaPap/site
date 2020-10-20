@@ -19,4 +19,4 @@ tags:
 Ασκηση: Απομονώστε το εφέ της επιλογής σας και χρησιμοποιείστε το σε κείμενο της επιλογής σας σε μια νέα html σελίδα.
 
 ## Π2019235 
-Παραδοτέο 2. [Δείτε το εδώ](https://codepen.io/isabellapap/embed/abZmLap?height=265&theme-id=light&default-tab=css,result)
+Παραδοτέο 2. [Δείτε το εδώ](https://codepen.io/isabellapap/embed/preview/abZmLap?height=265&theme-id=light&default-tab=css,result)
