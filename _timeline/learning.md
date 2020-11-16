@@ -13,6 +13,7 @@ events:
   - logo-graphics
   - home-programming
   - computer-lab
+  - matlab
   - rockys-boots
   - math-blaster
   - kidsim
