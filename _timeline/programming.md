@@ -23,5 +23,6 @@ events:
   - squeakos
   - eclipse-ide
   - processing-ide 
+  - unity
   - learntomod
 ---
