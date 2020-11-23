@@ -18,3 +18,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+Λύση:
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="image filter 1" src="https://codepen.io/isabellapap/embed/JjKgZEL?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/isabellapap/pen/JjKgZEL'>image filter 1</a> by 2019235
+  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
