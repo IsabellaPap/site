@@ -1,7 +1,7 @@
 [submodule "images"]
 	path = images
     url = https://github.com/IsabellaPap/images.git
-    branch = main
+    branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/IsabellaPap/_gallery.git
