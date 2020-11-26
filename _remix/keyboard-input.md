@@ -20,4 +20,9 @@ tags:
 
 Άσκηση 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
 
-Παραδοτέο 4: [Δείτε το εδώ](https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=light&default-tab=js,result)
+Λύση: 
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="html canvas game" src="https://codepen.io/isabellapap/embed/OJXZexE?height=265&theme-id=light&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/isabellapap/pen/OJXZexE'>html canvas game</a> by 2019235
+  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
