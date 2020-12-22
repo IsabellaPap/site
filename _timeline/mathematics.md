@@ -10,8 +10,5 @@ events:
   - human-computers
   - math-blaster
   - mixed-reality
-  - symbolic-abstraction
-  - visicalc
-  - squeakos
 ---
 
