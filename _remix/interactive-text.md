@@ -19,4 +19,8 @@ tags:
 Ασκηση: Απομονώστε το εφέ της επιλογής σας και χρησιμοποιείστε το σε κείμενο της επιλογής σας σε μια νέα html σελίδα.
 
 ## Π2019235 
-Παραδοτέο 2. [Δείτε το εδώ](https://codepen.io/isabellapap/embed/preview/abZmLap?height=265&theme-id=light&default-tab=css,result)
+Παραδοτέο 2. 
+<iframe height="265" style="width: 100%;" scrolling="no" title="10 stunning hover effects with scss" src="https://codepen.io/isabellapap/embed/abZmLap?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/isabellapap/pen/abZmLap'>10 stunning hover effects with scss</a> by 2019235
+  (<a href='https://codepen.io/isabellapap'>@isabellapap</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
