@@ -8,7 +8,7 @@ events:
   - app
   - cad
   - design
-  - minecraft-end-user
+  - minecraft-end-user 
   - multimodal
   - sketchpad
 ---
